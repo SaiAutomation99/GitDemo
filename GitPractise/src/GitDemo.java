@@ -5,7 +5,9 @@ public class GitDemo {
 		
 		
 		System.out.println("Git Demo");
+		int a=10;
 		System.out.println("Hello");
+		
 		
 		
 
