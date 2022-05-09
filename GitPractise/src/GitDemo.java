@@ -10,6 +10,8 @@ public class GitDemo {
 		
 		System.out.println("Hello");
 		
+		String name="sai";
+		
 		
 
 	}
