@@ -5,9 +5,6 @@ public class GitDemo {
 		
 		
 		System.out.println("Git Demo");
-		
-		System.out.println("GIT2");
-		
 		System.out.println("Hello");
 		
 		
