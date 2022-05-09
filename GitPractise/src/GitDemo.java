@@ -5,12 +5,11 @@ public class GitDemo {
 		
 		
 		System.out.println("Git Demo");
-		
-		System.out.println("GIT1");
-		
+		int b=10;
 		System.out.println("Hello");
 		
 		String name="sai";
+		
 		
 		
 
